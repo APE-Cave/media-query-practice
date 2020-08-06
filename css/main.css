@@ -75,6 +75,11 @@ footer {
     background-color: #070707;
   }
 
+  .col-3 {
+    width: 50%;
+    height: 320px;
+    float: left;
+  }
   footer {
     background-color: ;
   }
@@ -99,7 +104,11 @@ footer {
   #column-3 {
     background-color: #EF7A85;
   }
-
+  .col-3 {
+    width: 33.33%;
+    height: 320px;
+    float: left;
+  }
   footer {
     background-color: ;
   }
